@@ -1,0 +1,16 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+spacetracktool/__init__.py
+spacetracktool/_version.py
+spacetracktool/operations.py
+spacetracktool/spacetrackclient.py
+spacetracktool.egg-info/PKG-INFO
+spacetracktool.egg-info/SOURCES.txt
+spacetracktool.egg-info/dependency_links.txt
+spacetracktool.egg-info/requires.txt
+spacetracktool.egg-info/top_level.txt
+test/__init__.py
+test/test_operations.py
+test/test_space_track_client.py
